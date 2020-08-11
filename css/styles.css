@@ -1,0 +1,140 @@
+body{
+  margin: 0;
+  text-align: center;
+font-family: 'Merriweather', serif;
+  background-color:#d7f7fa ;
+}
+h1{
+  margin: 0;
+  color: #00bcd4;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 4.625rem;
+  margin-bottom: 0;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin:50px auto 50px auto;
+  color:#43b3bf;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+    color:#43b3bf;
+}
+hr{
+  height:10px;
+  border-width:8px;
+  border-color: #ffa299;
+  border-style:none;
+  border-top-style: dotted;
+  width:7%;
+}
+.down-para{
+  margin-bottom: 0;
+}
+.top{
+  background-color:  #cbf1f5;
+
+  padding-top: 100px;
+  position: relative;
+}
+.top{
+  margin-bottom: 60px;
+}
+.profile{
+  margin-bottom: 100px;
+}
+.skills{
+
+  padding-top:1%;
+  width: 50%;
+  line-height: 2;
+  margin: 20px auto 100px auto;
+
+
+}
+.intro{
+  width: 35%;
+  margin:0px auto 0px auto;
+  line-height: 2;
+}
+.skill-row{
+  margin-bottom: 100px;
+    text-align: left;
+
+}
+.pro{
+  text-decoration:underline;
+}
+.bottomCloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.topCloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+.html-img{
+  float: left;
+  height:25%;
+  width:25%;
+ border-radius:100%;
+ margin-right: 40px;
+}
+.computer-img{
+  float: right;
+  height:25%;
+  width:25%;
+ border-radius:100%;
+ padding-top: 20px;
+ margin-left: 30px;
+}
+.btn {
+	box-shadow: 6px 6px 19px -1px #3dc21b;
+	background-color:#44c767;
+	border-radius:10px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:11px 41px;
+	text-decoration:none;
+	text-shadow:-4px 2px 5px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.contact-me{
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  height: 60%;
+  color: #EAF6F6;
+  padding: 50px;
+  padding-bottom: 0;
+}
+.footer-link{
+  color: #11999E;
+  padding: 20px;
+
+}
+.contact{
+  width: 30%;
+  margin: 40px auto 60px auto;
+}
+.copyright{
+  margin-top: 40px;
+  margin-bottom: 0;
+}
